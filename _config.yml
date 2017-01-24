@@ -1,0 +1,33 @@
+# Site settings
+email: kbrtrm@gmail.com
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics:
+
+# SEO settings
+title: is trying
+description: kevin is trying to learn new things, practice more, make art
+url: ""
+twitter_username:
+default_img:
+
+# Profile settings
+name: Kevin
+profile_img: "/images/kpb23.jpeg"
+profile: Kevin is a human. This blog was created for purely selfish reasons. Trying to get better. Trying to learn new things. Trying to be patient. Trying to make more. Trying to sow empathy. Trying to do good.
+social:
+  info-circle: "/about"
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]

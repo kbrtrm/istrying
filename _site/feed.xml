@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>is trying</title>
+    <description>kevin is trying to learn new things, practice more, make art</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Jan 2017 15:47:46 -0600</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2017 15:47:46 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Home</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe cupiditate, corporis quibusdam nobis quaerat obcaecati illo dolores! Ipsam enim nihil, quas eius ducimus eveniet ex eligendi non ad molestias ea, asperiores obcaecati accusamus, numquam deleniti sequi explicabo tempore officiis earum amet perferendis a deserunt?&lt;/p&gt;
+
+&lt;p&gt;Architecto aliquid perspiciatis optio molestiae ex. Voluptatem dolores eligendi adipisci tempore optio, fuga obcaecati quibusdam doloremque, ipsam maiores excepturi incidunt vero, voluptates natus ducimus laudantium dicta accusantium. Natus tenetur, dolores distinctio hic similique non aliquid, excepturi voluptatem debitis expedita, minus nam est cupiditate nulla consequuntur deserunt eaque necessitatibus sed ipsam eum quae asperiores.&lt;/p&gt;
+
+&lt;p&gt;Earum aspernatur, beatae magnam placeat facilis cum temporibus neque ipsum deserunt id voluptates ipsa debitis veritatis voluptatibus expedita adipisci dolor nemo, doloribus voluptatem omnis cumque. Nobis voluptatibus debitis aspernatur magni possimus excepturi expedita, ratione illum fuga facere ab itaque consequatur consectetur, sed recusandae quaerat. Expedita quidem necessitatibus enim pariatur ab, minus eum repellat quis quasi accusamus doloribus omnis. Ex alias assumenda, voluptatum, voluptates praesentium quidem.&lt;/p&gt;
+
+&lt;p&gt;Iusto temporibus, blanditiis distinctio ducimus vel quos vero sint sit debitis corrupti, aperiam tempora facere recusandae repellat odio. Soluta, veniam, distinctio.&lt;/p&gt;
+
+&lt;p&gt;Consequuntur tempora iusto hic labore eaque quas distinctio veritatis accusamus qui tenetur, placeat nobis dolorum odit non nesciunt sint, mollitia, id pariatur dolore fuga soluta aut reiciendis illo. Error repellat a necessitatibus nisi cum animi facere reprehenderit repudiandae voluptatem harum distinctio architecto illo enim labore nesciunt qui, ratione expedita corporis neque, molestiae dolorum unde aperiam ipsum. Totam voluptates velit veniam quis, at facilis iste molestias illum iure mollitia suscipit id, accusantium consequatur unde illo. Quia dolor enim, dicta laboriosam in ab eius perferendis at debitis, aliquam vero a.&lt;/p&gt;
+
+&lt;p&gt;Consequuntur iste, eveniet, dicta nulla reprehenderit facilis laboriosam fuga non molestiae hic magni ea molestias at magnam aspernatur! Voluptatum voluptates corrupti eum dolorum nulla, natus tempore provident ipsa ut iste? In, qui. Maiores, temporibus repellat placeat nemo voluptatum reiciendis libero iusto nam commodi saepe praesentium, vero necessitatibus atque corporis tempora cupiditate, mollitia. Molestias debitis laudantium sapiente nesciunt dolores cumque in non, iure, qui at earum neque repudiandae doloremque itaque ea excepturi dolor, odit laboriosam?&lt;/p&gt;
+
+&lt;p&gt;Doloribus, vitae debitis neque perferendis alias voluptas dolor dolore molestiae ut saepe quos dignissimos nesciunt accusamus magnam fugit, suscipit voluptatibus deserunt aperiam? Provident voluptatibus reiciendis odio nihil. Tempore veritatis iusto nihil saepe dolor laborum sapiente modi consequuntur at perspiciatis, dolores, fugiat vel totam excepturi velit animi accusamus eum, sint molestias temporibus ut quod quae? Fugiat.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 00:00:00 -0600</pubDate>
+        <link>/2017/01/08/home/</link>
+        <guid isPermaLink="true">/2017/01/08/home/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Content Modeling</title>
+        <description>&lt;p&gt;OK. So, it’s been five years since the last site was “launched” and, well, now it’s old. Not only is it old, but it a) doesn’t work&lt;sup id=&quot;fnref:fn-dw&quot;&gt;&lt;a href=&quot;#fn:fn-dw&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, b) remains uneditable by most of it’s intended users, and c) is a breeding-ground for ownership conflict.&lt;/p&gt;
+
+&lt;p&gt;You can’t be everything for everyone. The current site tries to do exactly that. The most important change we’re considering is separating ownership based on audience (internal vs. external). In our case, we deem internal as those who already have a connection to the institution: current students, faculty, staff, etc. The external audience is primarily prospective students. These two groups have vastly different content needs.&lt;/p&gt;
+
+&lt;p&gt;So, why not deliver relevant content to each?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Degrees/Programs offered&lt;/li&gt;
+  &lt;li&gt;Cost&lt;/li&gt;
+  &lt;li&gt;Financial Aid Opportunities&lt;/li&gt;
+  &lt;li&gt;School Rank/Accolades&lt;/li&gt;
+  &lt;li&gt;Credit Transfer&lt;/li&gt;
+  &lt;li&gt;Campus Life&lt;/li&gt;
+  &lt;li&gt;Student Stories&lt;/li&gt;
+  &lt;li&gt;Truth&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Though, it could be argued that external users would benefit from seeing a lot of the internal content—and I would agree! There is definitely overlap there. The key to all of this is that they’re not mutually exclusive, they share and leverage the same content. They are two heads of the same fish.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-dw&quot;&gt;
+      &lt;p&gt;Well, yes it works, but it doesn’t &lt;em&gt;work&lt;/em&gt;, you know? &lt;a href=&quot;#fnref:fn-dw&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-sample_footnote&quot;&gt;
+      &lt;p&gt;This could be an entire post on it’s own, and I certainly am not an expert on this, but when I was a prospective student, I just wanted to know what it &lt;em&gt;actually&lt;/em&gt; was like to be a student. You know, the truth—not anything obviously polished and marketed. Raw content. Actual students’ social media, physical presence of the institution in the city, facutly’s work outside of the classroom, etc. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 -0500</pubDate>
+        <link>/2016/10/20/content-modeling/</link>
+        <guid isPermaLink="true">/2016/10/20/content-modeling/</guid>
+        
+        <category>web-development</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>John Muir Trail</title>
+        <description>&lt;p&gt;Tbh vaporware mumblecore iceland echo park DIY. Plaid woke next level enamel pin, vegan cred salvia pug. XOXO sartorial synth gluten-free, cold-pressed mumblecore craft beer helvetica. Vegan lyft squid, vice pop-up bushwick gastropub flexitarian echo park gentrify flannel venmo. Banh mi ugh direct trade, tote bag irony tbh biodiesel. Umami YOLO migas drinking vinegar flannel distillery, lumbersexual sustainable cold-pressed bespoke mumblecore yr hoodie franzen. Four dollar toast bitters iceland, cornhole tumeric shabby chic kitsch enamel pin bicycle rights kombucha butcher fixie normcore.&lt;/p&gt;
+
+&lt;p&gt;Sartorial kale chips keytar freegan craft beer, tilde put a bird on it post-ironic knausgaard everyday carry aesthetic. Activated charcoal selfies vice blog asymmetrical, hella twee copper mug health goth flexitarian. Tattooed pickled cold-pressed, PBR&amp;amp;B hell of schlitz seitan. Retro williamsburg schlitz health goth messenger bag roof party. Migas fanny pack chillwave chambray. Post-ironic roof party wolf ethical. Tacos PBR&amp;amp;B beard, lumbersexual retro DIY tumeric selvage brunch.&lt;/p&gt;
+
+&lt;p&gt;Gentrify locavore selfies fam bicycle rights, biodiesel kombucha fixie vape lomo fanny pack mumblecore letterpress leggings kale chips. Biodiesel typewriter mlkshk man braid. Ugh fap snackwave microdosing synth live-edge. Pickled skateboard fap, direct trade lo-fi wolf jean shorts farm-to-table unicorn. Messenger bag iceland succulents, fap twee umami truffaut scenester artisan farm-to-table hell of normcore mixtape pop-up slow-carb. Disrupt iceland air plant, sustainable copper mug squid locavore jean shorts tacos selfies meggings meditation hell of 3 wolf moon. Schlitz thundercats lyft raclette green juice intelligentsia.&lt;/p&gt;
+
+&lt;p&gt;Four loko pinterest lo-fi beard kinfolk marfa. Man bun flannel activated charcoal blue bottle. Chillwave coloring book waistcoat hammock knausgaard selfies. Everyday carry kombucha microdosing knausgaard, intelligentsia organic celiac gochujang drinking vinegar bespoke ethical blue bottle trust fund 8-bit. Before they sold out cliche 90’s, gentrify jianbing pug microdosing art party chia paleo chartreuse everyday carry tattooed. Listicle taxidermy art party migas tote bag meditation, farm-to-table PBR&amp;amp;B. Poutine vaporware letterpress hell of.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 00:00:00 -0500</pubDate>
+        <link>/2016/09/09/muir/</link>
+        <guid isPermaLink="true">/2016/09/09/muir/</guid>
+        
+        
+        <category>Places</category>
+        
+      </item>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;Tbh vaporware mumblecore iceland echo park DIY. Plaid woke next level enamel pin, vegan cred salvia pug. XOXO sartorial synth gluten-free, cold-pressed mumblecore craft beer helvetica. Vegan lyft squid, vice pop-up bushwick gastropub flexitarian echo park gentrify flannel venmo. Banh mi ugh direct trade, tote bag irony tbh biodiesel. Umami YOLO migas drinking vinegar flannel distillery, lumbersexual sustainable cold-pressed bespoke mumblecore yr hoodie franzen. Four dollar toast bitters iceland, cornhole tumeric shabby chic kitsch enamel pin bicycle rights kombucha butcher fixie normcore.&lt;/p&gt;
+
+&lt;p&gt;Sartorial kale chips keytar freegan craft beer, tilde put a bird on it post-ironic knausgaard everyday carry aesthetic. Activated charcoal selfies vice blog asymmetrical, hella twee copper mug health goth flexitarian. Tattooed pickled cold-pressed, PBR&amp;amp;B hell of schlitz seitan. Retro williamsburg schlitz health goth messenger bag roof party. Migas fanny pack chillwave chambray. Post-ironic roof party wolf ethical. Tacos PBR&amp;amp;B beard, lumbersexual retro DIY tumeric selvage brunch.&lt;/p&gt;
+
+&lt;p&gt;Gentrify locavore selfies fam bicycle rights, biodiesel kombucha fixie vape lomo fanny pack mumblecore letterpress leggings kale chips. Biodiesel typewriter mlkshk man braid. Ugh fap snackwave microdosing synth live-edge. Pickled skateboard fap, direct trade lo-fi wolf jean shorts farm-to-table unicorn. Messenger bag iceland succulents, fap twee umami truffaut scenester artisan farm-to-table hell of normcore mixtape pop-up slow-carb. Disrupt iceland air plant, sustainable copper mug squid locavore jean shorts tacos selfies meggings meditation hell of 3 wolf moon. Schlitz thundercats lyft raclette green juice intelligentsia.&lt;/p&gt;
+
+&lt;p&gt;Four loko pinterest lo-fi beard kinfolk marfa. Man bun flannel activated charcoal blue bottle. Chillwave coloring book waistcoat hammock knausgaard selfies. Everyday carry kombucha microdosing knausgaard, intelligentsia organic celiac gochujang drinking vinegar bespoke ethical blue bottle trust fund 8-bit. Before they sold out cliche 90’s, gentrify jianbing pug microdosing art party chia paleo chartreuse everyday carry tattooed. Listicle taxidermy art party migas tote bag meditation, farm-to-table PBR&amp;amp;B. Poutine vaporware letterpress hell of.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 -0500</pubDate>
+        <link>/2016/09/07/test/</link>
+        <guid isPermaLink="true">/2016/09/07/test/</guid>
+        
+        
+        <category>Juice</category>
+        
+      </item>
+    
+      <item>
+        <title>Craft Beer</title>
+        <description>&lt;p&gt;Tbh vaporware mumblecore iceland echo park DIY. Plaid woke next level enamel pin, vegan cred salvia pug. XOXO sartorial synth gluten-free, cold-pressed mumblecore craft beer helvetica. Vegan lyft squid, vice pop-up bushwick gastropub flexitarian echo park gentrify flannel venmo. Banh mi ugh direct trade, tote bag irony tbh biodiesel. Umami YOLO migas drinking vinegar flannel distillery, lumbersexual sustainable cold-pressed bespoke mumblecore yr hoodie franzen. Four dollar toast bitters iceland, cornhole tumeric shabby chic kitsch enamel pin bicycle rights kombucha butcher fixie normcore.&lt;/p&gt;
+
+&lt;p&gt;Sartorial kale chips keytar freegan craft beer, tilde put a bird on it post-ironic knausgaard everyday carry aesthetic. Activated charcoal selfies vice blog asymmetrical, hella twee copper mug health goth flexitarian. Tattooed pickled cold-pressed, PBR&amp;amp;B hell of schlitz seitan. Retro williamsburg schlitz health goth messenger bag roof party. Migas fanny pack chillwave chambray. Post-ironic roof party wolf ethical. Tacos PBR&amp;amp;B beard, lumbersexual retro DIY tumeric selvage brunch.&lt;/p&gt;
+
+&lt;p&gt;Gentrify locavore selfies fam bicycle rights, biodiesel kombucha fixie vape lomo fanny pack mumblecore letterpress leggings kale chips. Biodiesel typewriter mlkshk man braid. Ugh fap snackwave microdosing synth live-edge. Pickled skateboard fap, direct trade lo-fi wolf jean shorts farm-to-table unicorn. Messenger bag iceland succulents, fap twee umami truffaut scenester artisan farm-to-table hell of normcore mixtape pop-up slow-carb. Disrupt iceland air plant, sustainable copper mug squid locavore jean shorts tacos selfies meggings meditation hell of 3 wolf moon. Schlitz thundercats lyft raclette green juice intelligentsia.&lt;/p&gt;
+
+&lt;p&gt;Four loko pinterest lo-fi beard kinfolk marfa. Man bun flannel activated charcoal blue bottle. Chillwave coloring book waistcoat hammock knausgaard selfies. Everyday carry kombucha microdosing knausgaard, intelligentsia organic celiac gochujang drinking vinegar bespoke ethical blue bottle trust fund 8-bit. Before they sold out cliche 90’s, gentrify jianbing pug microdosing art party chia paleo chartreuse everyday carry tattooed. Listicle taxidermy art party migas tote bag meditation, farm-to-table PBR&amp;amp;B. Poutine vaporware letterpress hell of.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 -0500</pubDate>
+        <link>/2016/09/07/craft-beer/</link>
+        <guid isPermaLink="true">/2016/09/07/craft-beer/</guid>
+        
+        
+        <category>Juice</category>
+        
+      </item>
+    
+  </channel>
+</rss>
