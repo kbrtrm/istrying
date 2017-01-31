@@ -3,13 +3,13 @@
  */
 $font-header: 'Montserrat', monospace;
 $font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-post: 'Ovo', serif;
 
 $color-alpha: #ff6347;
-$color-alpha--light: rgba(255, 99, 71, .05);
+$color-alpha--light: rgba(255, 99, 71, .1);
 
 $color-black: #0a0a0a;
-$color-grey: #f8f9f9;
+$color-grey: #eee;
 $color-white: #fff;
 
 $mq-xs: 20em;
@@ -31,6 +31,7 @@ body {
   font-feature-settings: 'liga' 0;
   font-size: 100%;
   line-height: 1.6;
+  background-color: #eee;
 
   @media (min-width: $mq-xs) {
     font-size: 102.5%;
@@ -105,8 +106,8 @@ img {
 ol, ul {
   list-style-type: none;
 
-  .post & {
-    list-style-type: initial;
+  &.posts {
+    padding-left: 0;
   }
 
   &.profile__social {

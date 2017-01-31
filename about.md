@@ -16,7 +16,7 @@ permalink: /about/
     </header>
 
     <div class="tab">
-      <ul itemscope itemtype="http://schema.org/Blog">
+      <ul class="posts" itemscope itemtype="http://schema.org/Blog">
 
           <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
             <div class="preview__link">
@@ -24,6 +24,7 @@ permalink: /about/
               <p class="preview__excerpt" itemprop="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ducimus sit voluptatibus! Odio voluptas unde et doloribus, delectus ratione tempore. Alias quaerat nihil similique accusantium!</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, aut culpa cum! Inventore at dolores tenetur quidem dolorem. Perferendis sequi exercitationem in cumque ex. Repellendus dolorem totam sed voluptas, aperiam, officia odio animi unde necessitatibus veniam doloribus sunt commodi sit.</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quasi autem accusamus, laudantium placeat, nostrum soluta voluptatem, enim omnis nemo dolorum eveniet dignissimos? Dolorum ducimus nisi nulla exercitationem facere corporis facilis, sit ea, rem nobis!</p>
+              <p>As the minuteness of the parts formed a great hindrance to my speed, I resolved, contrary to my first intention, to make the being of a gigantic stature; that is to say, about eight feet in height, and proportionably large. After having formed this determination, and having spent some months in successfully collecting and arranging my materials, I began.</p>
             </div>
           </li>
       </ul>

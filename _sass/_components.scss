@@ -376,7 +376,7 @@ h1 {
   width: 90%;
   max-width: $mq-md;
   margin: 0 auto;
-  font-size: 1.25em;
+  font-size: 21px;
 
   font-family: $font-post;
 
@@ -391,7 +391,7 @@ h1 {
 
 
   p:first-child {
-    font-size: 1.25em;
+    font-size: 1.125em;
     margin-bottom: 2em;
   }
 
@@ -551,4 +551,31 @@ h1 {
     padding-left: 1em;
     padding-right: 1em;
   }
+}
+
+.caption {
+  font-size: .8em;
+  color: #aaa;
+  display: inline-block;
+  line-height: 1.4;
+  margin-top: .5em;
+}
+
+.header-caption {
+  max-width: 480px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+article[itemprop="blogPost"] {
+  background: #fafafa;
+}
+
+.post ul {
+  list-style-type: initial;
+}
+
+.footnotes ol {
+  list-style-type: decimal;
 }
